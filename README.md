@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a AWS DevOps Engineer & Full Stack Developer
 <!--
 **yevhenvint/yevhenvint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
